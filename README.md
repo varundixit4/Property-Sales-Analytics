@@ -4,7 +4,7 @@
 <h2>Dataset and Data Cleaning</h2>
 <p>The dataset from the NYC Department of Finance consisted of the data about the residential and commercial properties sold from June 2022 to May 2023. The dataset was uncleaned and had numerous missing values. The 5 datasets were first cleaned and then integrated to a single dataset for analysis using python.</p>
 <h4><a href='https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page'>View the dataset on NYC Department of Finance website.</a></h4>
-<h4><a href='./NYC Property Sales.ipynp'>View the data cleaning and integration code.</a></h4>
+<h4><a href='./NYC Property Sales.ipynb'>View the data cleaning and integration code.</a></h4>
 <h2>Problem Statement</h2>
 <p>The Problem Statement was generated using AI based on the dataset. The problem statement is purely synthetic and the analysis was done to get solutions from the data for the questions in the problem statement. Following are the questions answered by the dataset using the dashboard</p>
 <ol>
