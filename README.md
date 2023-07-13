@@ -21,5 +21,6 @@
 </ol>
 <h2>Dashboard</h2>
 <p>The dashboard was created using PowerBI. DAX was used to build measures for the data and Power Query was used to create conditional columns for a few visuals. The Dashboard creates a visual for each question in the problem statement. The static dashboard is displayed as a pdf file. Whereas to view the interactive dashboard, one must download the pbix file.</p>
+<img src='./Sales Dashboard.PNG'>
 <h4><a href='./NYC_Property_Sales_Dashboard.pdf'>View the static dashboard here</a></h4>
 <h4><a href='./NYC_Property_Sales_Dashboard.pbix'>Download the interactive dashboard here</a></h4>
